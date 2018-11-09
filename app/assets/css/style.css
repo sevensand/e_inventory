@@ -1,0 +1,35 @@
+.dashcontainer {
+  flex-grow: 1;
+   flexWrap: 'wrap';
+}
+.mapcontainer {
+  flex-grow: 1;
+   flexWrap: 'wrap';
+  margin-top: 10px;
+}
+.columnworking {
+  font-style: italic;
+  color: red;
+}
+
+.root {
+  flex-grow: 1;
+}
+
+.toolsImage {
+  width: 100%;
+}
+
+.textField {
+  width: 200;
+}
+
+.menu {
+  width: 200;
+}
+.textUser {
+  width: 100%;
+}
+.selecttools {
+  width: 100%;
+}
